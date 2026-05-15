@@ -1,0 +1,6 @@
+rgname                 = "dev-nitin-rg"
+service_principal_name = "dev-nitin-spn"
+keyvault_name          = "dev-nitin-kv-101"
+SUB_ID = ""
+cluster_name = "dev-nitin-cluster"
+node_pool_name = "devnp"

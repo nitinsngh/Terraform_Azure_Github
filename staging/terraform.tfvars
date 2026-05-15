@@ -1,0 +1,6 @@
+rgname                 = "stage-nitin-rg"
+service_principal_name = "stage-nitin-spn"
+keyvault_name          = "stage-nitin-kv-101"
+SUB_ID = ""
+node_pool_name = "stagenp"
+cluster_name = "stage-nitin-cluster"
